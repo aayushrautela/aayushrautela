@@ -1,0 +1,11 @@
+My cloud setup is held together with shell scripts and hope.
+My models either overthink everything or have amnesia.
+I have more virtual servers than I have houseplants.
+I'm convinced 50% of programming is just knowing what to Google.
+I whisper sweet hyperparameters to my models, hoping they'll converge.
+My code has no bugs, only random undocumented features.
+I have a simple philosophy: if it fits, it ships... in a Docker container.
+The hardest part of MLOps is getting the indentation right in a YAML file.
+My commit history is a dialogue between me, myself, and I at 3 AM.
+My favorite keyboard shortcut is Ctrl+Z, for obvious reasons.
+I believe that with enough coffee, any bug is fixable.
