@@ -2,7 +2,7 @@
 Trading computer science theory for meaningful code, one project at a time.<br><br>Currently working on: 🤖 Building practical, AI-powered applications using Python and machine learning libraries.<br>Currently learning: ☁️ MLOps to automate the deployment and scaling of my models.<br>Ask me about: 💬 Python, Assembly code, cloud networking or my self-hosting struggles.<br>Fun fact: ⚡ The hardest part of MLOps is getting the indentation right in a YAML file.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayush-rautela-50471a240) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rautela4488@gmail.com) 
 
 # 💻 Tech Stack:
