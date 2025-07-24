@@ -1,5 +1,5 @@
 # 💫 About Me:
-Trading computer science theory for meaningful code, one project at a time.<br><br>Currently working on: 🤖 Building practical, AI-powered applications using Python and machine learning libraries.<br>Currently learning: ☁️ MLOps to automate the deployment and scaling of my models.<br>Ask me about: 💬 Python, Assembly code, cloud networking or my self-hosting struggles.<br>Fun fact: ⚡ The hardest part of MLOps is getting the indentation right in a YAML file.
+Trading computer science theory for meaningful code, one project at a time.<br><br>Currently working on: 🤖 Building practical, AI-powered applications using Python and machine learning libraries.<br>Currently learning: ☁️ MLOps to automate the deployment and scaling of my models.<br>Ask me about: 💬 Python, Assembly code, cloud networking or my self-hosting struggles.<br>Fun fact: ⚡ I'm convinced 50% of programming is just knowing what to Google.
 
 
 # 🌐 Socials:
