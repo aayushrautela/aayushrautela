@@ -12,7 +12,7 @@ Trading computer science theory for meaningful code, one project at a time.<br><
 ![](https://nirzak-streak-stats.vercel.app/?user=aayushrautela&theme=dark&hide_border=false)<br/>
 ![](https://mygithubreadmestats.vercel.app/api/top-langs/?username=aayushrautela&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# My Media Stats
+# 🎥 From the Watchlist
 ![](https://raw.githubusercontent.com/aayushrautela/trakt-stats-generator/main/trakt_stats.svg)
 
 ---
