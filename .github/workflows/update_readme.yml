@@ -9,21 +9,33 @@ jobs:
   update-fact:
     runs-on: ubuntu-latest
     steps:
+      - name: Decide whether to run today
+        id: decision
+        run: |
+          if (( RANDOM % 7 < 3 )); then
+            echo "should_run=true"
+          else
+            echo "should_run=false"
+          fi >> "$GITHUB_OUTPUT"
+
       - name: Check out repo
+        if: steps.decision.outputs.should_run == 'true'
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.PAT }}
 
       - name: Set up Python
+        if: steps.decision.outputs.should_run == 'true'
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
 
       - name: Update README with new fact
+        if: steps.decision.outputs.should_run == 'true'
         run: python update_readme.py
 
-      # Use your personal Git details for the commit
       - name: Commit and push changes
+        if: steps.decision.outputs.should_run == 'true'
         run: |
           git config --global user.name "aayushrautela[update-bot]"
           git config --global user.email "rautela4488@gmail.com"
