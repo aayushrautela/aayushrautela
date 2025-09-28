@@ -11,7 +11,7 @@ Trading computer science theory for meaningful code, one project at a time.<br><
 ![](https://github-readme-stats.vercel.app/api?username=aayushrautela&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=aayushrautela&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aayushrautela&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+![](https://trakt-stats-generator.vercel.app/api/trakt?v=1)
 ---
 [![](https://visitcount.itsvg.in/api?id=aayushrautela&icon=3&color=0)](https://visitcount.itsvg.in)
 
