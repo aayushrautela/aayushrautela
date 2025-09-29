@@ -1,4 +1,4 @@
-# 💫 About Me:
+<img width="1031" height="724" alt="image" src="https://github.com/user-attachments/assets/3a7cf747-ad55-4c46-b69c-31c532601c6c" /># 💫 About Me:
 Trading computer science theory for meaningful code, one project at a time.<br><br>Currently working on: 🤖 Building practical, AI-powered applications using Python and machine learning libraries.<br>Currently learning: ☁️ MLOps to automate the deployment and scaling of my models.<br>Ask me about: 💬 Python, Assembly code, cloud networking or my self-hosting struggles.<br>Fun fact: ⚡ My favorite keyboard shortcut is Ctrl+Z, for obvious reasons.
 
 
@@ -13,7 +13,7 @@ Trading computer science theory for meaningful code, one project at a time.<br><
 ![](https://mygithubreadmestats.vercel.app/api/top-langs/?username=aayushrautela&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 🎥 From the Watchlist
-![](https://trakt-stats-generator.vercel.app/api/trakt)
+![](https://trakt-stats-generator.vercel.app/api/trakt/public)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=aayushrautela&icon=3&color=0)](https://visitcount.itsvg.in)
