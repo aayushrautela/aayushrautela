@@ -1,4 +1,4 @@
-<img width="1031" height="724" alt="image" src="https://github.com/user-attachments/assets/3a7cf747-ad55-4c46-b69c-31c532601c6c" /># 💫 About Me:
+# 💫 About Me:
 Trading computer science theory for meaningful code, one project at a time.<br><br>Currently working on: 🤖 Building practical, AI-powered applications using Python and machine learning libraries.<br>Currently learning: ☁️ MLOps to automate the deployment and scaling of my models.<br>Ask me about: 💬 Python, Assembly code, cloud networking or my self-hosting struggles.<br>Fun fact: ⚡ My favorite keyboard shortcut is Ctrl+Z, for obvious reasons.
 
 
