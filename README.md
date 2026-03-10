@@ -1,5 +1,5 @@
 # 💫 About Me:
-Trading computer science theory for meaningful code, one project at a time.<br><br>Currently working on: 🤖 Building practical, AI-powered applications using Python and machine learning libraries.<br>Currently learning: ☁️ MLOps to automate the deployment and scaling of my models.<br>Ask me about: 💬 Python, Assembly code, cloud networking or my self-hosting struggles.<br>Fun fact: ⚡ I have a simple philosophy: if it fits, it ships... in a Docker container.
+Trading computer science theory for meaningful code, one project at a time.<br><br>Currently working on: 🤖 Building practical, AI-powered applications using Python and machine learning libraries.<br>Currently learning: ☁️ MLOps to automate the deployment and scaling of my models.<br>Ask me about: 💬 Python, Assembly code, cloud networking or my self-hosting struggles.<br>Fun fact: ⚡ My code has no bugs, only random undocumented features.
 
 
 # 🌐 Socials:
